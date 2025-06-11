@@ -1,1 +1,1 @@
-# calculator
+# Rock Paper Scissors
